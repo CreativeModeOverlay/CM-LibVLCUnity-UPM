@@ -1,0 +1,12 @@
+{
+    "name": "com.videolan.libvlc.unity",
+    "displayName": "VideoLAN.LibVLC.Unity",
+    "version": "1.0.0",
+    "unity": "2017.1",
+    "description": "Package wrapper and compiled .dlls for https://code.videolan.org/videolan/vlc-unity/",
+    "dependencies": {},
+	"author": {
+		"name": "VideoLAN"
+	},
+	"type": "library"
+}
